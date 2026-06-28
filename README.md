@@ -1,5 +1,8 @@
 # Tricurrent Inventory and Procure-to-Pay Automation Suite
 
+![Inventory Control Panel](controlpanel.png)
+![Inventory Dashboard](dashboard.png)
+
 Excel VBA system for a fictional coffee roasting company, covering inventory management, purchase requisitioning, finance approval, vendor PO generation, and AP reconciliation.
 
 ## Problem
